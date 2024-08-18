@@ -1,0 +1,3 @@
+CPP code give rise to overflow whcih can be handled using GNU Math Precision Library(GMP).
+
+So, a python code is also provided for reference
